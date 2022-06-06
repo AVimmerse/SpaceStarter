@@ -1,0 +1,103 @@
+newmtl CartoonFBEBFF
+illum 7
+Kd 1 1 1
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl CartoonFFFFFF6b725e84-ea06-4763-9539-8e7cd245c3b2
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd Pagoda1/CartoonFFFFFF6b725e84-ea06-4763-9539-8e7cd245c3b2_base_color.png
+
+newmtl gold_clean 3
+illum 7
+Kd 1 0.886275 0.607843
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 1
+adobe_translucence 0
+Pr 0.109804
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl Cartoon262525
+illum 7
+Kd 0.14902 0.145098 0.145098
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl CartoonFFF819
+illum 7
+Kd 1 0.972549 0.0980392
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0.552941 0.611765 0.184314
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl CartoonFFFFFF0e5a0d5d-59bd-4224-b42d-1c797ca72d66
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd Pagoda1/CartoonFFFFFF0e5a0d5d-59bd-4224-b42d-1c797ca72d66_base_color.png

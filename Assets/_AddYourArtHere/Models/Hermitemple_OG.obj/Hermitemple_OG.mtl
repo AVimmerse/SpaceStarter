@@ -1,0 +1,149 @@
+
+newmtl FlatFFFFFFc54bbb14-fbcb-4c5e-9d97-74d314f04916
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+map_Kd c54bbb14-fbcb-4c5e-9d97-74d314f04916.png
+
+
+
+
+newmtl CartoonFFFFFFc54bbb14-fbcb-4c5e-9d97-74d314f04916
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd c54bbb14-fbcb-4c5e-9d97-74d314f04916.png
+
+
+
+
+newmtl CartoonFFFFFF0e5a0d5d-59bd-4224-b42d-1c797ca72d66
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 0e5a0d5d-59bd-4224-b42d-1c797ca72d66.png
+
+
+
+
+newmtl Flat282828
+Kd  0.1568628 0.1568628 0.1568628
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl FlatFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl StandardFF0080
+Kd  1 0 0.5019608
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard000000
+Kd  0 0 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl ReflectiveFFD416
+Kd  1 0.8313726 0.08627451
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl CartoonFFFFFFapinktoyellow
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd apinktoyellow.png
+
+
+
+
+newmtl Standard262525
+Kd  0.1490196 0.145098 0.145098
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Reflective262525
+Kd  0.1490196 0.145098 0.145098
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl StandardFFFFFF6b725e84-ea06-4763-9539-8e7cd245c3b2
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 6b725e84-ea06-4763-9539-8e7cd245c3b2.png
+
+
+
+
+newmtl CartoonFFFFFF0047c6c7-b220-46e3-89e4-9bb040164b24
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 0047c6c7-b220-46e3-89e4-9bb040164b24.png
+
+
+

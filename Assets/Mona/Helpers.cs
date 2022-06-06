@@ -1,5 +1,9 @@
 #if UNITY_EDITOR
 using UnityEngine;
+using UnityEditor;
+using UnityEditor.SceneManagement;
+using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.IO;
 
@@ -34,7 +38,6 @@ namespace Mona
         {
             List<string> list = new List<string>(Application.dataPath.Split('/'));
             list.RemoveAt(list.Count - 1);
-
             string directoryPath = string.Join("/", list.ToArray()) + "/" + directory;
             Application.OpenURL("file://" + directoryPath);
         }

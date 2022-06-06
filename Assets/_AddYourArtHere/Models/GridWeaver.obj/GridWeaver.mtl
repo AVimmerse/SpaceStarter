@@ -1,0 +1,112 @@
+
+newmtl CartoonFFFFFFapinktoyellow
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd apinktoyellow.png
+
+
+
+
+newmtl Standard37393A
+Kd  0.2156863 0.2235294 0.227451
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFFFFFF0e5a0d5d-59bd-4224-b42d-1c797ca72d66
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 0e5a0d5d-59bd-4224-b42d-1c797ca72d66.png
+
+
+
+
+newmtl StandardFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl ReflectiveFFD445
+Kd  1 0.8313726 0.2705882
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl StandardABA19F
+Kd  0.6705883 0.6313726 0.6235294
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl ReflectiveFFD82E
+Kd  1 0.8470588 0.1803922
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl StandardAFCA34
+Kd  0.6862745 0.7921569 0.2039216
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl FlatFF7100
+Kd  1 0.4431373 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl FlatFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+

@@ -1,0 +1,516 @@
+newmtl MATERIAL_CARTOONCC8F54
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+map_Ke SarraceniaPink/MATERIAL_CARTOONCC8F54_emission_color.png
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_CARTOONCC8F54_base_color.png
+norm SarraceniaPink/MATERIAL_CARTOONCC8F54_normal.png
+
+newmtl MATERIAL_CARTOONFF9B01
+illum 7
+Kd 0.211765 0.003922 0.145098
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0.462745
+adobe_translucence 0
+Pr 0.752941
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_CARTOON1BFFCB
+illum 7
+Kd 0.733333 0.733333 0.733333
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+map_Ke SarraceniaPink/MATERIAL_CARTOON1BFFCB_emission_color.png
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONGA55EA0
+illum 7
+Kd 0.070588 0.070588 0.070588
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONGA55EA0_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONGA55EA0_normal.png
+
+newmtl MATERIAL_PHONG86BE9B
+illum 7
+Kd 0.070588 0.070588 0.070588
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONG86BE9B_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONG86BE9B_normal.png
+
+newmtl MATERIAL_PINKTENTACLES
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+map_Ke SarraceniaPink/MATERIAL_PINKTENTACLES_emission_color.png
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_PINKTENTACLES_base_color.png
+norm SarraceniaPink/MATERIAL_PINKTENTACLES_normal.png
+
+newmtl MATERIAL_PHONGECA33E
+illum 7
+Kd 0.980392 0.901961 0.588235
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 1
+adobe_translucence 0
+Pr 0.2
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONGFE7334
+illum 7
+Kd 0.109804 0 0.066667
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0.462745
+adobe_translucence 0
+Pr 0.752941
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONGFFB046
+illum 7
+Kd 0.980392 0.901961 0.588235
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0.905882 1
+Pm 0.517647
+adobe_translucence 0
+Pr 0
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONG91578A
+illum 7
+Kd 0.070588 0.070588 0.070588
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONG91578A_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONG91578A_normal.png
+
+newmtl MATERIAL_PHONGA33E2B
+illum 7
+Kd 0.078431 0 0.043137
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0.462745
+adobe_translucence 1
+Pr 0.752941
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONGFFBE39
+illum 7
+Kd 0.211765 0.003922 0.145098
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0.462745
+adobe_translucence 0
+Pr 0.752941
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONGFFBE39_normal.png
+
+newmtl MATERIAL_PHONGFFC400
+illum 7
+Kd 0.070588 0.070588 0.070588
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONGFFC400_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONGFFC400_normal.png
+
+newmtl MATERIAL_PHONGDD892E
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+map_Pm SarraceniaPink/MATERIAL_PHONGDD892E_metallic.png
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONGDD892E_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_PHONGDD892E_base_color.png
+norm SarraceniaPink/MATERIAL_PHONGDD892E_normal.png
+
+newmtl MATERIAL_PHONG00FF84
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_PHONG00FF84_base_color.png
+
+newmtl MATERIAL_PHONGFFD84F
+illum 7
+Kd 0.580392 0.007843 0.623529
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONGFFD84F_normal.png
+
+newmtl MATERIAL_PHONG000000
+illum 7
+Kd 0 0 0
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.0980392
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONG000000_normal.png
+
+newmtl MATERIAL_STANDARDEB51D3
+illum 7
+Kd 1 0.239216 0.376471
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PINKTENTACLES 2
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+map_Ke SarraceniaPink/MATERIAL_PINKTENTACLES_emission_color 2.png
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_PINKTENTACLES_base_color 2.png
+norm SarraceniaPink/MATERIAL_PINKTENTACLES_normal 2.png
+
+newmtl MATERIAL_PHONGBEF0F7
+illum 7
+Kd 1 1 1
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.3
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_CARTOONFF0072
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+map_Ke SarraceniaPink/MATERIAL_CARTOONFF0072_emission_color.png
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_CARTOONFF0072_base_color.png
+norm SarraceniaPink/MATERIAL_CARTOONFF0072_normal.png
+
+newmtl water
+illum 7
+Kd 1 1 1
+adobe_interior_color 1 1 1
+Ni 1.33
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 1
+Pr 0
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONGFFCA9E
+illum 7
+Kd 0.980392 0.901961 0.588235
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0.905882 1
+Pm 0.490196
+adobe_translucence 0
+Pr 0
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_FLATEB51D3
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+map_Ke SarraceniaPink/MATERIAL_FLATEB51D3_emission_color.png
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd SarraceniaPink/MATERIAL_FLATEB51D3_base_color.png
+norm SarraceniaPink/MATERIAL_FLATEB51D3_normal.png
+
+newmtl MATERIAL_PHONGFF9441
+illum 7
+Kd 0.831373 0.698039 0.360784
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 1
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONGFF9441_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONGFF9441_normal.png
+
+newmtl MATERIAL_PHONGD2CC9F
+illum 7
+Kd 1 1 1
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl MATERIAL_PHONGFFD84F 2
+illum 7
+Kd 0.580392 0.007843 0.623529
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0
+adobe_translucence 0
+Pr 0.298039
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONGFFD84F_normal 2.png
+
+newmtl MATERIAL_FLATFDF8FF
+illum 7
+Kd 0.831373 0.698039 0.360784
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 1
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_FLATFDF8FF_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_FLATFDF8FF_normal.png
+
+newmtl MATERIAL_PHONG383433
+illum 7
+Kd 0.070588 0.070588 0.070588
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 1 1 1
+Pm 0.79
+adobe_translucence 0
+map_Pr SarraceniaPink/MATERIAL_PHONG383433_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm SarraceniaPink/MATERIAL_PHONG383433_normal.png

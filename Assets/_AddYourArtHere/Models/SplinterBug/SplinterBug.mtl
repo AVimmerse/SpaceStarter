@@ -1,0 +1,154 @@
+
+newmtl ReflectiveFF0080
+Kd  1 0 0.5019608
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl ReflectiveFFD445
+Kd  1 0.8313726 0.2705882
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl Reflective773C72
+Kd  0.4666667 0.2352941 0.4470588
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl Flat07D8FF
+Kd  0.02745098 0.8470588 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Standard628030
+Kd  0.3843137 0.5019608 0.1882353
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Reflective322E31
+Kd  0.1960784 0.1803922 0.1921569
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl StandardFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardFFF200
+Kd  1 0.9490196 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Reflective89386C
+Kd  0.5372549 0.2196078 0.4235294
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl ReflectiveE3177C
+Kd  0.8901961 0.09019608 0.4862745
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl FlatFFFDFA
+Kd  1 0.9921569 0.9803922
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
+
+newmtl Reflective262525
+Kd  0.1490196 0.145098 0.145098
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl Reflective93354F
+Kd  0.5764706 0.2078431 0.3098039
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl ReflectiveA71352
+Kd  0.654902 0.07450981 0.3215686
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+

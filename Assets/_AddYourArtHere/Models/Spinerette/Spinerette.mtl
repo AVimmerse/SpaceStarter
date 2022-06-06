@@ -1,0 +1,191 @@
+
+newmtl Cartoon393838
+Kd  0.2235294 0.2196078 0.2196078
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFFFFFF6b725e84-ea06-4763-9539-8e7cd245c3b2
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 6b725e84-ea06-4763-9539-8e7cd245c3b2.png
+
+
+
+
+newmtl CartoonFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFFFFFF0e5a0d5d-59bd-4224-b42d-1c797ca72d66
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 0e5a0d5d-59bd-4224-b42d-1c797ca72d66.png
+
+
+
+
+newmtl CartoonFFA93C
+Kd  1 0.6627451 0.2352941
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Cartoon262525
+Kd  0.1490196 0.145098 0.145098
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Cartoon6B6B6B
+Kd  0.4196078 0.4196078 0.4196078
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardFDFFFF6b725e84-ea06-4763-9539-8e7cd245c3b2
+Kd  0.9921569 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 6b725e84-ea06-4763-9539-8e7cd245c3b2.png
+
+
+
+
+newmtl StandardFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonD4D4D4
+Kd  0.8313726 0.8313726 0.8313726
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard262525
+Kd  0.1490196 0.145098 0.145098
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFFF819
+Kd  1 0.972549 0.09803922
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFF0080
+Kd  1 0 0.5019608
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFFD416
+Kd  1 0.8313726 0.08627451
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFDFFFF6b725e84-ea06-4763-9539-8e7cd245c3b2
+Kd  0.9921569 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+map_Kd 6b725e84-ea06-4763-9539-8e7cd245c3b2.png
+
+
+
+
+newmtl Cartoon000000
+Kd  0 0 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl FlatB6FF33
+Kd  0.7137255 1 0.2
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+
+
+
