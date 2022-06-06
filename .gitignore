@@ -17,6 +17,7 @@
 # Ignore .mp4 and other large files in my repo
 *.fbx
 *.zip
+*.meta
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
