@@ -10,7 +10,7 @@ Material:
   m_Name: Cartoon_FFFFFF_0e5a0d5d-59bd-4224-b42d-1c797ca72d66
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
-  m_LightmapFlags: 5
+  m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
